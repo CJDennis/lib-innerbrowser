@@ -25,7 +25,11 @@
         "codeception/codeception": "*@dev",
         "codeception/lib-web": "^1.0.1",
         "symfony/browser-kit": "^4.4.24 || ^5.4 || ^6.0",
-        "symfony/dom-crawler": "^4.4.30 || ^5.4 || ^6.0"
+        "symfony/dom-crawler": "^4.4.30 || ^5.4 || ^6.0",
+        "phpunit/php-code-coverage": "dev-main as 9.99.99",
+        "phpunit/php-text-template": "dev-main as 2.99.99",
+        "phpunit/phpunit": "dev-main as 9.99.99",
+        "sebastian/diff": "dev-main as 4.99.99"
     },
     "require-dev": {
         "codeception/util-universalframework": "dev-master"
